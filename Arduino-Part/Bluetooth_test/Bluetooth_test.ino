@@ -4,7 +4,7 @@
 #define M1 3          // PWM left motor
 #define D2 4          // direction of motor rotation 2
 #define M2 5          // PWM right motor
-
+#define M3 3          // sinnlose änderung
 char incomingByte;
 
 unsigned long currentTime, lastTimeCommand, autoOFF;
